@@ -29,7 +29,7 @@ $ pip install requests
 ```
 
 ## You can find the medium articles here : 
-1. [Automate Downloading Bulk Spotify Playlist [ ARTICLE ]](https://medium.com/@nurxan02/how-can-i-download-spotify-playlists-not-one-track-all-tracks-26a808f8e3eb)
+1. [ How can I download Spotify playlists? Not one track! All tracks [ ARTICLE ]](https://medium.com/@nurxan02/how-can-i-download-spotify-playlists-not-one-track-all-tracks-26a808f8e3eb)
 
 
 
