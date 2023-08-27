@@ -1,7 +1,7 @@
-# Spotify-Playlist-Download
-## Last Tested :   `27 July 2023`
-
-
+# SpotifyDownloaderPY
+## Last Tested :   `27 August 2023`
+v1.1.3
+Everything is ok
 
 ## Updated :   `02 April 2023`
 v1.1.3
@@ -15,16 +15,13 @@ v1.1.2
 
 ## How To Use
 
-
-YOUTUBE VIDEO : [https://youtu.be/1wGU652jF9g](https://www.youtube.com/watch?v=PBVGNCzihMM&t=37s)
-
 To clone and run this application, you'll need [python](https://www.python.org/) 
 From your command line:
 
 ```bash
 # Clone this repository if you have git or just download code.
 
-$ git clone https://github.com/surenjanath/Spotify-Playlist-Download.git
+$ git clone https://github.com/nurxan02/SpotifyDownloaderPY.git
 
 # Install requests if you already don't have it.
 $ pip install requests
@@ -37,7 +34,7 @@ $ pip install requests
 
 
 ## ToC
-Please use it to download Copyright Free Music on Spotify <br/>For example : https://open.spotify.com/playlist/3fQ6EJdy6n1kF4Yw5bTAVx?si=2f26056713504154
+Please use it to download Copyright Free Music on Spotify <br/>For example : https://open.spotify.com/playlist/23Yp4MdXR7dHs7VBPI8cuD?si=sBL966O7RNGfyvbCuWUk9g
 
 ## License
 
@@ -45,8 +42,4 @@ MIT
 
 ---
 
-> GitHub [@surenjanath](https://github.com/surenjanath) &nbsp;&middot;&nbsp;
-> Twitter [@surenjanath](https://twitter.com/surenjanath)
 
-
-PS : CREATED TO DOWNLOAD COPYRIGHT FREE MUSIC
